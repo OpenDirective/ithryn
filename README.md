@@ -1,7 +1,8 @@
 # ithryn
-HTML components providing access to media and communications with cofigurable complexity
-
+HTML components for media and communications access with configurable cognitive complexity
 
 Initially developed with the support of EC project [Prosperity4All](http://www.prosperity4all.eu/).
 
-Entymology - Pronounced 'ee'throon - A word from Tolkien's Sindarin language, signifying 'wise ones' or 'those with knowledge'.
+The first components will appear here shortly
+
+See http://opendirective.github.io/steppingStones/
