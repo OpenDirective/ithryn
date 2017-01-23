@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## steppingStones
+HTML components for media and communications access with configurable cognitive complexity</p>
 
-You can use the [editor on GitHub](https://github.com/OpenDirective/steppingStones/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+* [Download ZIP File](https://github.com/OpenDirective/steppingStones/zipball/master)
+* [Download TAR Ball](https://github.com/OpenDirective/steppingStones/tarball/master)
+* [View the Project on GitHub](https://github.com/OpenDirective/steppingStones)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HTML components providing access to media and communications designed for people with cognitive disabilities and low digital literacy and with configurable complexity
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OpenDirective/steppingStones/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Initially developed with the support of EC project [Prosperity4All](http://www.prosperity4all.eu/)
+        
+See this introductory [presentation from the T4I conference](2016-11-28_T4ISteppingStones)
+Project maintained by [OpenDirective](https://github.com/OpenDirective)
+Hosted on GitHub Pages
